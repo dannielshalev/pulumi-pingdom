@@ -1,5 +1,5 @@
-import hvac
 import os
+import hvac
 
 
 def get_vault_secrets(path):
