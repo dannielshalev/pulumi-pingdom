@@ -1,0 +1,4 @@
+config:
+  region: NA
+  endpoints:
+    - us.uveye.app

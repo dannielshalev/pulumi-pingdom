@@ -1,0 +1,3 @@
+pulumi>=3.0.0,<4.0.0
+pypingdom==0.2.2
+pingdomv3==0.0.6
