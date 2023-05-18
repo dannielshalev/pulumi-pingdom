@@ -1,6 +1,5 @@
 config:
   pulumi_pingdom:region: EU
   pulumi_pingdom:endpoints:
-    - eu.uveye.app
-    - eu.backoffice.uveye.app
-    - tunnel.eu.uveye.cloud
+    - eu.test.app
+    - eu.test.uveye.app
